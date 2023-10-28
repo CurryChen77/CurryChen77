@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 👋 I'm Keyu Chen @CurryChen77, a Ph.D. student at Tsinghua SVM (school of vehicle and mobility).
+- 📖 I have a keen interest in learning-based planning methods and efficient evaluation techniques for autonomous driving.
+- 🔭 Currently, I'm working on developing an AI-based evaluation framework for autonomous driving using the Carla simulator.
 
 <!--
 **CurryChen77/CurryChen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
