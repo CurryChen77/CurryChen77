@@ -1,7 +1,14 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pengzhenghao/pengzhenghao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pengzhenghao/pengzhenghao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pengzhenghao/pengzhenghao/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Hi there 👋
-- 👋 I'm Keyu Chen @CurryChen77, a Ph.D. student at Tsinghua SVM (school of vehicle and mobility).
-- 📖 I have a keen interest in learning-based planning methods and efficient evaluation techniques for autonomous driving.
-- 🔭 Currently, I'm working on developing an AI-based evaluation framework for autonomous driving using the Carla simulator.
+- 👋 I'm Keyu Chen @CurryChen77, a Ph.D. student at Tsinghua SVM (School of Vehicle and Mobility).
+- 📖 I have a keen interest in learning-based planning methods and efficient traffic simulation techniques for autonomous driving.
+- 🔭 Currently, I'm working on developing an AI-based traffic simulation framework for autonomous driving using the Carla simulator.
+- 👀 Please visit my homepage: https://currychen77.github.io/
 
 <!--
 **CurryChen77/CurryChen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
