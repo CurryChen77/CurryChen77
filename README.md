@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 - 👋 I'm Keyu Chen @CurryChen77, a Ph.D. student at Tsinghua SVM (School of Vehicle and Mobility).
-- 🔬 My research focuses on reinforcement learning (RL) post-training for autonomous driving, with broader interests in Physical AI.
+- 🔬 My research focuses on reinforcement learning post-training for autonomous driving, with broader interests in Physical AI.
 - 🚀 I'm particularly interested in improving the adaptability and robustness of learning-based agents through RL and closed-loop interaction.
 - 👀 Please visit my homepage: https://currychen77.github.io/
 
