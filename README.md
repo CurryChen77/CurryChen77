@@ -6,8 +6,8 @@
 
 ### Hi there 👋
 - 👋 I'm Keyu Chen @CurryChen77, a Ph.D. student at Tsinghua SVM (School of Vehicle and Mobility).
-- 📖 I have a keen interest in learning-based planning methods and efficient traffic simulation techniques for autonomous driving.
-- 🔭 Currently, I'm working on developing an AI-based traffic simulation framework for autonomous driving using the Carla simulator.
+- 🔬 My research focuses on reinforcement learning (RL) post-training for autonomous driving, with broader interests in Physical AI.
+- 🚀 I'm particularly interested in improving the adaptability and robustness of learning-based agents through RL and closed-loop interaction.
 - 👀 Please visit my homepage: https://currychen77.github.io/
 
 <!--
